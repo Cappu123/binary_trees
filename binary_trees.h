@@ -61,3 +61,5 @@ binary_tree_t *binary_tree_uncle(binary_tree_t *node);
 
 /* print helper functions */
 void binary_tree_print(const binary_tree_t *);
+
+#endif
