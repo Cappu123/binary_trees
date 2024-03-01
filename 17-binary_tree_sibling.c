@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary-tree_sibiling - finds the sibilig of a node
+ * binary-tree_sibling - finds the sibilig of a node
  * @node: a pointer to the node to find the sibiling of
  *
  * Return: NULL if node is NULL and no sibiling
